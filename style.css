@@ -1,0 +1,15 @@
+.bg-navy {
+  background-color: #3c5279;
+}
+
+.selectItem {
+  background-color: #3c5279;
+}
+
+.overflow-auto {
+  overflow: auto !important;
+}
+
+.flowHeight {
+  height: 80%;
+}
